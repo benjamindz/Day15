@@ -4,9 +4,9 @@ function myArr(mili) {
     "use strict";
 
     // Only change code below this line
-    milili[0] = 4;
-    milili[1] = 10;
-    milili[2] = 25;
+    mili[0] = 4;
+    mili[1] = 10;
+    mili[2] = 25;
 
 
     // Only change code above this line
